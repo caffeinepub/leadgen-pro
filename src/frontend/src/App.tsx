@@ -70,13 +70,13 @@ const SERVICES = [
     icon: Settings,
     title: "LinkedIn Profile Optimization",
     description:
-      "Craft a magnetic profile that positions you as an authority and attracts your ideal clients — even while you sleep. First impressions close deals before you ever say hello.",
+      "Craft a magnetic profile that positions you as an authority and attracts your ideal clients - even while you sleep. First impressions close deals before you ever say hello.",
   },
   {
     icon: MessageCircle,
     title: "Done-For-You Outreach",
     description:
-      "I run your entire outreach engine: prospect targeting, personalised messaging sequences, follow-ups, and connection requests — all tailored precisely to your niche and offer.",
+      "I run your entire outreach engine: prospect targeting, personalised messaging sequences, follow-ups, and connection requests - all tailored precisely to your niche and offer.",
   },
   {
     icon: Users,
@@ -91,7 +91,7 @@ const STEPS = [
   {
     num: "01",
     title: "We Map Your Ideal Client",
-    desc: "A deep-dive onboarding call to understand your offer, your audience, and your growth goals — so the strategy is built around you, not a template.",
+    desc: "A deep-dive onboarding call to understand your offer, your audience, and your growth goals - so the strategy is built around you, not a template.",
   },
   {
     num: "02",
@@ -116,13 +116,13 @@ const RESULTS = [
   {
     icon: DollarSign,
     headline: "$47K in New Revenue",
-    sub: "B2B Consultant — 60 days",
+    sub: "B2B Consultant - 60 days",
     color: "oklch(0.65 0.18 155)",
   },
   {
     icon: TrendingUp,
     headline: "LinkedIn Connections 3×'d",
-    sub: "SaaS Founder — 45 days",
+    sub: "SaaS Founder - 45 days",
     color: "oklch(0.6 0.18 240)",
   },
 ];
@@ -180,7 +180,7 @@ const WHY_ITEMS = [
 const FAQS = [
   {
     q: "How quickly will I see results?",
-    a: "Most clients start seeing booked calls within the first 2–3 weeks of launch. The exact timeline depends on your offer, niche, and target audience, but we build for speed without sacrificing quality.",
+    a: "Most clients start seeing booked calls within the first 2-3 weeks of launch. The exact timeline depends on your offer, niche, and target audience, but we build for speed without sacrificing quality.",
   },
   {
     q: "Do I need a large LinkedIn following?",
@@ -192,7 +192,7 @@ const FAQS = [
   },
   {
     q: "How is this different from LinkedIn ads?",
-    a: "This is 100% organic outreach. No ad budget required. Instead of interrupting strangers, we build genuine relationships that convert — and those connections stay in your network permanently.",
+    a: "This is 100% organic outreach. No ad budget required. Instead of interrupting strangers, we build genuine relationships that convert - and those connections stay in your network permanently.",
   },
 ];
 
@@ -479,17 +479,17 @@ export default function App() {
                 variants={fadeUp}
                 className="font-display text-4xl sm:text-5xl lg:text-6xl font-semibold leading-[1.1] tracking-tight mb-6"
               >
-                Stop Chasing Leads.{" "}
-                <span className="text-gold">Let Me Bring</span> Them to You.
+                Don't Run After Clients{" "}
+                <span className="text-gold">Let Them Line Up</span> for You.
               </motion.h1>
 
               <motion.p
                 variants={fadeUp}
                 className="text-white/75 text-lg leading-relaxed mb-8 max-w-lg"
               >
-                I build done-for-you LinkedIn outreach systems that fill your
-                calendar with qualified sales conversations — without you
-                lifting a finger.
+                I build Done-For-You LinkedIn engines that book qualified sales
+                calls on autopilot - no cold calling, no ad spend, and zero
+                manual outreach required.
               </motion.p>
 
               <motion.div variants={fadeUp} className="flex flex-wrap gap-3">
@@ -619,7 +619,7 @@ export default function App() {
                 variants={fadeUp}
                 className="section-heading text-3xl sm:text-4xl text-ink mb-6 leading-tight"
               >
-                Hi, I'm ShashiRekha —{" "}
+                Hi, I'm ShashiRekha -{" "}
                 <span className="gold-underline">
                   Your LinkedIn Growth Partner
                 </span>
@@ -631,7 +631,7 @@ export default function App() {
                 I'm a LinkedIn lead generation specialist dedicated to helping
                 coaches, consultants, and service providers land high-ticket
                 clients through strategic, relationship-first outreach. No
-                gimmicks, no spray-and-pray messaging — just intelligent systems
+                gimmicks, no spray-and-pray messaging - just intelligent systems
                 built around your specific offer and audience.
               </motion.p>
               <motion.p
@@ -640,7 +640,7 @@ export default function App() {
               >
                 I've spent three years perfecting outreach systems that work
                 quietly in the background while you focus on what you're
-                actually great at — delivering exceptional results for your
+                actually great at - delivering exceptional results for your
                 clients. Your calendar should fill itself. Let's make that
                 happen.
               </motion.p>
@@ -1086,7 +1086,7 @@ export default function App() {
                 variants={fadeUp}
                 className="text-white/65 text-lg leading-relaxed mb-8"
               >
-                Book a free 30-minute strategy call. No pressure, no hard sell —
+                Book a free 30-minute strategy call. No pressure, no hard sell -
                 just a real conversation about your goals and how we can achieve
                 them together.
               </motion.p>
